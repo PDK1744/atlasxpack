@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+  <Texture>images/atlas</Texture>
+  <Regions>
+    <Region name="oak_tree" x="2" y="2" width="64" height="96" />
+    <Region name="ogre_boss" x="68" y="2" width="64" height="64" />
+    <Region name="player_jump" x="134" y="2" width="34" height="52" />
+    <Region name="dialogue_box" x="2" y="100" width="160" height="48" />
+    <Region name="player_run_01" x="164" y="100" width="36" height="48" />
+    <Region name="player_run_02" x="202" y="100" width="36" height="48" />
+    <Region name="skeleton_walk_02" x="2" y="150" width="32" height="48" />
+    <Region name="player_idle_01" x="36" y="150" width="32" height="48" />
+    <Region name="player_idle_02" x="70" y="150" width="32" height="48" />
+    <Region name="skeleton_walk_01" x="104" y="150" width="32" height="48" />
+    <Region name="treasure_chest" x="138" y="150" width="40" height="32" />
+    <Region name="grass_top" x="180" y="150" width="32" height="32" />
+    <Region name="stone_brick" x="214" y="150" width="32" height="32" />
+    <Region name="water_surface" x="2" y="200" width="32" height="32" />
+    <Region name="wooden_crate" x="36" y="200" width="32" height="32" />
+    <Region name="dirt_center" x="70" y="200" width="32" height="32" />
+    <Region name="sword_icon" x="104" y="200" width="24" height="24" />
+    <Region name="mana_potion" x="130" y="200" width="16" height="24" />
+    <Region name="health_bar_bg" x="2" y="234" width="128" height="20" />
+    <Region name="slime_green_01" x="132" y="234" width="28" height="20" />
+    <Region name="slime_green_02" x="162" y="234" width="32" height="18" />
+    <Region name="gold_coin" x="196" y="234" width="16" height="16" />
+    <Region name="heart_full" x="214" y="234" width="16" height="16" />
+  </Regions>
+</TextureAtlas>
